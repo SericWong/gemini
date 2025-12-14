@@ -50,7 +50,7 @@ Gemini 绝不仅仅是 Google 对抗 OpenAI 的一款竞品，它代表了 AI �
 界面极具现代感，交互逻辑清晰。最赞的是模型切换非常丝滑，前一秒用 Gemini 分析逻辑，后一秒切 GPT-4o 处理文本，一个账号搞定所有需求，强烈推荐给对生产力有高要求的用户。
 
 ### 🥈 极简主义者的福音：（Gemini 镜像站）
-🔗 **传送门**: [gemini 镜像](https://www.chatgpt-mirrors.com/chatgpt)  
+🔗 **传送门**: [gemini 镜像](https://www.gemini-tool.com/gemini-mirror)  
 ⭐ **综合战力**: ★★★★★
 
 **核心亮点：**  
