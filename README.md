@@ -7,6 +7,7 @@
 如果你想直接体验这款强大的模型，可以从这里快速进入：
 
 👉 **艾米（快速访问）**: [chat.aimirror123.com](https://chat.aimirror123.com)
+👉 **WriteAI（快速访问）**: [chat.write360.cn](https://chat.write360.cn)
 
 ---
 
@@ -88,5 +89,5 @@ Gemini 绝不仅仅是 Google 对抗 OpenAI 的一款竞品，它代表了 AI �
 
 ---
 
-*最后更新时间: 2025年1月*  
+*最后更新时间: 2026年1月1日*  
 *如果发现链接失效或有任何问题，欢迎提交 Issue 反馈！*
